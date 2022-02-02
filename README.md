@@ -1,7 +1,7 @@
 # EarthDroneDefenceProject
 Final Vr Ocullus Unity project.
 
-The final project were a continuation of the VR game Space Invaders. 
+The final project was a continuation of the VR game Space Invaders.
 
 Github: https://github.com/MvdNotenboom/EarthDroneDefenceProject
 
